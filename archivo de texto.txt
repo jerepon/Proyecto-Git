@@ -1,0 +1,2 @@
+Este archivo contiene datos esenciales sobre el funcionamiento del programa.
+SEGUIR LAS INSTRUCCCIONES
