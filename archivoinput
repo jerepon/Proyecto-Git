@@ -1,2 +1,4 @@
 let nombre=prompt("INDICA TU NOMBRE");
-alert("Bienvenido "+nombre+" al proyecto de git" );
+alert("Bienvenido "+nombre+" al proyecto de git" );;
+if ( true ){codigo};
+terminedeconfigurarelinput
